@@ -1,2 +1,2 @@
-This my first git assignment.
-Hello World Modified version
+M	info.txt
+This is a new change in the chapter two-branch.
